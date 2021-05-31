@@ -1,3 +1,3 @@
 # Spending-Management-Tool
 Home Screen
-![Home](https://user-images.githubusercontent.com/48511671/120231441-0a9aaf00-c26f-11eb-8555-967a89f9df8e.png)
+<img width="647" alt="Home" src="https://user-images.githubusercontent.com/48511671/120231592-55b4c200-c26f-11eb-99df-a90e60fc407b.png">
